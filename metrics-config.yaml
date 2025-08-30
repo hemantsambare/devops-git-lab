@@ -1,0 +1,6 @@
+collection_interval: 60        # seconds between each metrics collection
+metrics_endpoints:
+  - http://localhost:9090/metrics
+  - http://localhost:9100/metrics
+output_format: json
+log_level: info

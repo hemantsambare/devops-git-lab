@@ -4,4 +4,3 @@ metrics_endpoints:
   - http://localhost:9100/metrics
 output_format: json
 log_level: info
-dns_setting: true

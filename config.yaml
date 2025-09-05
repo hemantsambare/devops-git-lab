@@ -3,6 +3,6 @@ filters:
     values: [active, inactive]
   - name: priority
     values: [high, medium, loW]
-    values: [high, medium,]
+    
   
 
